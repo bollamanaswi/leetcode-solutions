@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
 | ------- |
