@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
