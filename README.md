@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0258-add-digits) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Trie
 |  |
