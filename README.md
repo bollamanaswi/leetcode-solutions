@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1184-distance-between-bus-stops](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
