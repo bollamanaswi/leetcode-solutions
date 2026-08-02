@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2235-add-two-integers](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 <!---LeetCode Topics End-->
