@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2427-number-of-common-factors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Euclidean Algorithm
 |  |
 | ------- |
