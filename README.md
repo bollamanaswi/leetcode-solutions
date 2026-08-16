@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Trie
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Simulation
