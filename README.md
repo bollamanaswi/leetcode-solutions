@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0258-add-digits) |
 | [1017-convert-to-base-2](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1017-convert-to-base-2) |
+| [1266-minimum-time-visiting-all-points](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1184-distance-between-bus-stops](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
+| [1266-minimum-time-visiting-all-points](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1362-closest-divisors) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
