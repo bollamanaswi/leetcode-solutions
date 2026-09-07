@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [2843-count-symmetric-integers](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2427-number-of-common-factors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [2843-count-symmetric-integers](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 ## Euclidean Algorithm
 |  |
 | ------- |
