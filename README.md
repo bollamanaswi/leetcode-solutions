@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Trie
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Prime Factorization
 |  |
 | ------- |
