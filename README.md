@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1184-distance-between-bus-stops](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
