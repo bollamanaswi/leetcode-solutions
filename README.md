@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0661-image-smoother](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0896-monotonic-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
