@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1362-closest-divisors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1362-closest-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2235-add-two-integers](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1362-closest-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Geometry
 |  |
 | ------- |
