@@ -27,14 +27,14 @@ int subarrayLCM(int* nums, int numsSize, int k)
         {
             currentLCM = lcm(currentLCM, nums[j]);
 
-            if (currentLCM == k)
-            {
-                count++;
-            }
-
             if (currentLCM > k)
             {
                 break;
+            }
+
+            if (currentLCM == k)
+            {
+                count++;
             }
         }
     }
