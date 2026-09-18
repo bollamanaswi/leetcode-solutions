@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0661-image-smoother](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
