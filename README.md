@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0567-permutation-in-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Array
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
