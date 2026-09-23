@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0692-top-k-frequent-words](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0896-monotonic-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -267,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0322-coin-change) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
