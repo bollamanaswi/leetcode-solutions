@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2748-number-of-beautiful-pairs) |
