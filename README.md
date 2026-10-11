@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Matrix
 |  |
 | ------- |
