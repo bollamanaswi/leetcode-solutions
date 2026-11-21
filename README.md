@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0258-add-digits) |
 | [0812-largest-triangle-area](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1017-convert-to-base-2](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1017-convert-to-base-2) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
