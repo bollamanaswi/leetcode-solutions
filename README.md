@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0831-masking-personal-information](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0831-masking-personal-information) |
 ## Array
 |  |
 | ------- |
