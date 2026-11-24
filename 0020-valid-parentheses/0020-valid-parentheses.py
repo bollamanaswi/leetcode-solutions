@@ -4,15 +4,22 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        dict={")":"(","}":"{","]":"["}        
-        stack=[]
-        for char in s:
-            if char in "({[":
-                stack.append(char)
-            else:
-                if not stack  or stack.pop() != dict[char]:
-                    return False
-            
-        return len(stack)==0
+        st = []
+        r = '[{('
 
-    
+        for p in s:
+            if p in r:
+                st.append(p)
+
+            elif (st and (st[-1] == '[' and p == ']' or
+                          st[-1] == '(' and p == ')' or
+                          st[-1] == '{' and p == '}')):
+                st.pop()
+
+            else:
+                return False
+
+        if st:
+            return False
+        else:
+            return True
