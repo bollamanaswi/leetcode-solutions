@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -327,10 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Prefix Sum
 |  |
 | ------- |
