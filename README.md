@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0268-missing-number) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0682-baseball-game) |
