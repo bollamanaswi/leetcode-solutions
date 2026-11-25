@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0204-count-primes) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2427-number-of-common-factors](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
@@ -285,14 +289,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1175-prime-arrangements) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1175-prime-arrangements) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1175-prime-arrangements) |
 ## Quicksort
 |  |
