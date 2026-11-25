@@ -19,3 +19,4 @@ class Solution(object):
                 t1[char]=1
         return s1==t1
         
+        
