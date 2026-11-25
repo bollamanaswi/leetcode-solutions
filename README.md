@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-masking-personal-information](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2785-sort-vowels-in-a-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2785-sort-vowels-in-a-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Matrix
 |  |
 | ------- |
