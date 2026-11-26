@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0812-largest-triangle-area](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0891-sum-of-subsequence-widths](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [1017-convert-to-base-2](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1017-convert-to-base-2) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
