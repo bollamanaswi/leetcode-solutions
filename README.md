@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0812-largest-triangle-area](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0891-sum-of-subsequence-widths](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [1017-convert-to-base-2](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1017-convert-to-base-2) |
 | [1175-prime-arrangements](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [1266-minimum-time-visiting-all-points](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0891-sum-of-subsequence-widths](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0896-monotonic-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1184-distance-between-bus-stops](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0692-top-k-frequent-words](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0891-sum-of-subsequence-widths](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bollamanaswi/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
