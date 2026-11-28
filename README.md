@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bollamanaswi/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -421,12 +422,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0897-increasing-order-search-tree](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0897-increasing-order-search-tree](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,4 +438,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0897-increasing-order-search-tree](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
