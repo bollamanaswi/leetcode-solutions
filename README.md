@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0897-increasing-order-search-tree](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
@@ -436,11 +438,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0897-increasing-order-search-tree](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0897-increasing-order-search-tree](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bollamanaswi/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
